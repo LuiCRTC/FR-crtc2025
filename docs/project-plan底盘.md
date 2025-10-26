@@ -1,1 +1,6 @@
 <div class="sketchfab-embed-wrapper"> <iframe title="底板" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a8f15e19946b4cb79dabc050533a429b/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/a8f15e19946b4cb79dabc050533a429b?utm_medium=embed&utm_campaign=share-popup&utm_content=a8f15e19946b4cb79dabc050533a429b" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 底板 </a> by <a href="https://sketchfab.com/whyass?utm_medium=embed&utm_campaign=share-popup&utm_content=a8f15e19946b4cb79dabc050533a429b" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> whyass </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a8f15e19946b4cb79dabc050533a429b" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+问题及改进：
+问题1：在连接麦轮之后底盘总长超过限定长度
+解决：对原有底盘进行切割在其下安装根据切割后底盘的安装口和马达的尺寸设计3D打印的马达盒固定马达。
+问题2：梁柱固定点螺帽抵挡使得马达盒安装之后麦轮不水平
+解决：对打印模型进行改进，预留出相关的孔位，使螺帽能够穿过马达盒孔，马达盒能够水平接在底盘上。
